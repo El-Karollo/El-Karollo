@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Karol from Poland. I really love animals :D
+- 👀 I’m interested in programming -> PHP (front and back) -> graphics -> SysAdmin
+- 🌱 I’m currently learning everything what makes me happy :D
